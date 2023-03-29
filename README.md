@@ -1,18 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Swapnil Rajgadkar
 =========================================================================================================================================
 
-Python Developer
+Software Developer
 ----------------
 
-I'm learning and working on Python Language. I'm really passionate about programming and try to find the solution of the problem.
+I'm learning and working on MERN STACK. I'm really passionate about programming and try to find the solution of the problem.
 
 * 🌍  I'm based in Maharashtra, India
 * 🖥️  See my portfolio at [My Personal Website](http://swapnilrajgadkar.pythonanywhere.com)
 * ✉️  You can contact me at [swapnilrajgadkarwani@gmail.com](mailto:swapnilrajgadkarwani@gmail.com)
 * 🚀  I'm currently working on [My Personal Website](http://swapnilrajgadkar.pythonanywhere.com)
-* 🧠  I'm learning Python Frameworks, MySQL
+* 🧠  I'm learning Javascript and MERN STACK.
 * 🤝  I'm open to collaborating on Projects.
-* ⚡  Don't tell anyone.......I will become the BEST PYTHON DEVELOPER.
+* ⚡  Don't tell anyone.......I will become the BEST SOFTWARE DEVELOPER.
 
 ### Skills
 
